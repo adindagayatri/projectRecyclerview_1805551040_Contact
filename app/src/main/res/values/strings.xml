@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">projectRecyclerview</string>
+    <string-array name="contact">
+        <item>Kezia Eca</item>
+        <item>Dayu Dae</item>
+        <item>Yunia Nyaw</item>
+        <item>Candra Can</item>
+        <item>Dyah Riri</item>
+        <item>Ariyunia Nyu</item>
+    </string-array>
+    <string-array name="status1">
+        <item>available</item>
+        <item>available</item>
+        <item> </item>
+        <item>available</item>
+        <item> </item>
+        <item>available</item>
+    </string-array>
+    <string-array name="status2">
+        <item> </item>
+        <item> </item>
+        <item>busy</item>
+        <item> </item>
+        <item>busy</item>
+        <item> </item>
+    </string-array>
+</resources>
